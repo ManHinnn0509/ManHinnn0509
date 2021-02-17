@@ -1,5 +1,35 @@
-### Hi there 👋
+![Kureha](https://i.imgur.com/FtpBQyH.jpg)
+<!--
+![](https://steamuserimages-a.akamaihd.net/ugc/1758060802046636532/FCE3A33B38DB56073BD4178DB2099FBD3A66695D/)
+-->
+## 💻 Languages that I'm learning and using...
+<table>
+  <tbody>
+    <tr valign = "top">
+      <td width = "25%" align = "center">
+        <strong style = "color: #b07219">Java</strong><br><br>
+        <img height = "64px" src = "https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width = "25%" align = "center">
+        <strong style = "color: #555555">C</strong><br><br>
+        <img height = "64px" src = "https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width = "25%" align = "center">
+        <strong style = "color: #3572A5">Python</strong><br><br>
+        <img height = "64px" src = "https://cdn.svgporn.com/logos/python.svg">
+      <td width = "25%" align = "center">
+        <strong style = "color: #f1e05a">JavaScript</strong><br><br>
+        <img height = "64px" src = "https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+<!--
+How to create this?
+See: https://medium.com/starbugs/%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E7%8D%A8%E4%B8%80%E7%84%A1%E4%BA%8C%E7%9A%84-github-profile-%E8%88%87%E4%B8%89%E5%80%8B%E5%BE%88%E9%85%B7%E7%9A%84%E8%A8%AD%E8%A8%88%E5%8F%8A%E6%87%89%E7%94%A8-ef1cbb4b42c1
+-->
 <!--
 **ManHinnn0509/ManHinnn0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
