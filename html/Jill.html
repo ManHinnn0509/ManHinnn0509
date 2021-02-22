@@ -1,0 +1,77 @@
+<html>
+    <head>
+        <title>Jill Valentine</title>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    </head>
+
+    <body>
+        <div class="pic">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%">
+
+                <defs>
+                    <filter id="filter2">
+                        <feGaussianBlur stdDeviation="5" />
+                    </filter>
+
+                    <mask id="mask1">
+                        <circle cx="-50%" cy="-50%" r="50" fill="white" filter="url(#filter2)" />
+                    </mask>
+
+                    <mask id="mask2">
+                        <rect x="0" y="0" width="100%" height="100%" fill="white" />
+                        <circle cx="-50%" cy="-50%" r="40" fill="black" fill="black" filter="url(#filter2)" />
+                    </mask>
+                </defs>
+
+                <!--Background-->
+                <image class="asBG" mask="url(#mask1)" xlink:href="https://i.imgur.com/FDyIzlw.png" width="100%" height="100%"></image>
+
+                <!--Foreground-->
+                <image class="asBG" mask="url(#mask2)" xlink:href="https://i.imgur.com/E4q5Ffn.jpg" width="100%" height="100%"></image>
+            </svg>
+        </div>
+    </body>
+</html>
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: #000000;
+    }
+
+    image.asBG {
+        pointer-events: none;
+        position: absolute;
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -1;
+        display: block;
+    }
+
+    div.pic {
+        display: inline-block;
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+</style>
+
+<script>
+    var mask1 = $('#mask1 circle')[0];
+    var mask2 = $('#mask2 circle')[0];
+
+    $('.pic').mousemove(function (event) {
+        event.preventDefault();
+
+        var upX = event.clientX;
+        var upY = event.clientY;
+        // console.log(upX, upY);
+
+        mask1.setAttribute("cy", (upY - 5) + 'px');
+        mask1.setAttribute("cx", (upX) + 'px');
+
+        mask2.setAttribute("cy", (upY - 5) + 'px');
+        mask2.setAttribute("cx", (upX) + 'px');
+    });
+</script>
