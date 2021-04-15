@@ -17,10 +17,10 @@
       <td width = "25%" align = "center">
         <strong style = "color: #3572A5">Python</strong><br><br>
         <img height = "64px" src = "https://cdn.svgporn.com/logos/python.svg">
+      </td>
       <td width = "25%" align = "center">
         <strong style = "color: #f1e05a">JavaScript</strong><br><br>
         <img height = "64px" src = "https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
       </td>
     </tr>
   </tbody>
