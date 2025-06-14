@@ -3,24 +3,32 @@
 ![](https://steamuserimages-a.akamaihd.net/ugc/1758060802046636532/FCE3A33B38DB56073BD4178DB2099FBD3A66695D/)
 -->
 ## 💻 Languages that I'm learning and using...
+
 <table>
   <tbody>
     <tr valign = "top">
-      <td width = "25%" align = "center">
+      <td width = "16.6%" align = "center">
         <strong style = "color: #b07219">Java</strong><br><br>
         <img height = "64px" src = "https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width = "25%" align = "center">
+      <td width = "16.6%" align = "center">
         <strong style = "color: #555555">C</strong><br><br>
         <img height = "64px" src = "https://cdn.svgporn.com/logos/c.svg">
       </td>
-      <td width = "25%" align = "center">
+      <td width = "16.6%" align = "center">
+        <strong style = "color: #555555">C++</strong><br><br>
+        <img height = "64px" src = "https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width = "16.6%" align = "center">
         <strong style = "color: #3572A5">Python</strong><br><br>
         <img height = "64px" src = "https://cdn.svgporn.com/logos/python.svg">
-      <td width = "25%" align = "center">
+      <td width = "16.6%" align = "center">
         <strong style = "color: #f1e05a">JavaScript</strong><br><br>
         <img height = "64px" src = "https://cdn.svgporn.com/logos/javascript.svg">
       </td>
+      <td width = "16.6%" align = "center">
+        <strong style = "color: #555555">Lua</strong><br><br>
+        <img height = "64px" src = "https://cdn.svgporn.com/logos/lua.svg">
       </td>
     </tr>
   </tbody>
