@@ -1,7 +1,12 @@
-![Kureha](https://i.imgur.com/FtpBQyH.jpg)
+# 👋 Hi
+
+Hey there, I love turning ideas into usable tools and Python is my go-to tool since it takes less time for development. :D
+
 <!--
+![Kureha](https://i.imgur.com/FtpBQyH.jpg)
 ![](https://steamuserimages-a.akamaihd.net/ugc/1758060802046636532/FCE3A33B38DB56073BD4178DB2099FBD3A66695D/)
 -->
+
 ## 💻 Languages that I'm learning and using...
 <table>
   <tbody>

@@ -1,39 +1,37 @@
 <html>
     <head>
         <title>&#129412; Welcome!</title>
-        <link rel = "icon" href="../img/favicon.ico">
-        <!--<link rel = "icon" href = "https://i.imgur.com/pbSxsFC.png">-->    <!--https://i.imgur.com/5sKQq4i.png-->
+        <link rel="icon" href="../img/favicon.ico">
+        <!--<link rel="icon" href="https://i.imgur.com/pbSxsFC.png">-->    <!--https://i.imgur.com/5sKQq4i.png-->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;700&display=swap" rel="stylesheet">
 
-        <script type = "module" src = "https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+        <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
         <script type='text/javascript'src="https://github.com/processing/p5.js/releases/download/1.2.0/p5.min.js"></script>
     </head>
 
     <body>
-        <div id="mainCanvas" class = "canvas"></div>
+        <div id="mainCanvas" class="canvas"></div>
 
         <br>
-            <h1 class = "title">
-                <a style = "color: #00FF00" href = "https://github.com/ManHinnn0509">
+            <h1 class="title">
+                <a style="color: #00FF00" href="https://github.com/ManHinnn0509">
                     My GitHub profile
                 </a>
             </h1>
         <br>
 
-        <a href = "Jill.html" title="What is this?">
-            <img class = "rgb" src = "../img/gif/rgb.gif">    <!--https://i.imgur.com/r8zuEWp.gif-->
+        <a href="Jill.html" title="What is this?">
+            <img class="rgb" src="../img/gif/rgb.gif">    <!--https://i.imgur.com/r8zuEWp.gif-->
         </a>
         <br>
 
-        <zero-md class = "md" src = "../README.md"></zero-md>
+        <zero-md class="md" src="https://raw.githubusercontent.com/ManHinnn0509/ManHinnn0509/refs/heads/main/README.md"></zero-md>
     </body>
 </html>
 
 <style>
-    @font-face {
-        font-family: "Fira Code", monospace;
-        src: url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap");
-    }
-    
     html {
         background: url("../img/bg.jpg") no-repeat;      /* https://i.imgur.com/OawSRbg.jpg */
         background-size: cover;
@@ -48,7 +46,8 @@
     }
 
     h1.title {
-        font-family: Fira Code;
+        font-family: "Fira Code";
+        font-weight: 300;
         text-align: center;
         
         margin: 0 auto;
@@ -63,7 +62,7 @@
     }
 
     zero-md.md {
-        border-radius: 15px;
+        border-radius: 10px;
         width: 650;
         margin: auto;
         border: 1px solid #C2C5CC;
