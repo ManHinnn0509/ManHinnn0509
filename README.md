@@ -1,4 +1,4 @@
-# Hi
+# 👋 Hi
 
 Hey there, I love turning ideas into usable tools and Python is my go-to tool since it takes less time for development. :D
 
