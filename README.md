@@ -9,34 +9,35 @@ Hey there, I love turning ideas into usable tools and Python is my go-to tool si
 
 ## 💻 Languages that I'm learning and using...
 
-<table>
-  <tbody>
-    <tr valign = "top">
-      <td width = "16.6%" align = "center">
-        <strong style = "color: #b07219">Java</strong><br><br>
-        <img height = "64px" src = "https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width = "16.6%" align = "center">
-        <strong style = "color: #555555">C</strong><br><br>
-        <img height = "64px" src = "https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width = "16.6%" align = "center">
-        <strong style = "color: #555555">C++</strong><br><br>
-        <img height = "64px" src = "https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width = "16.6%" align = "center">
-        <strong style = "color: #3572A5">Python</strong><br><br>
-        <img height = "64px" src = "https://cdn.svgporn.com/logos/python.svg">
-      <td width = "16.6%" align = "center">
-        <strong style = "color: #f1e05a">JavaScript</strong><br><br>
-        <img height = "64px" src = "https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width = "16.6%" align = "center">
-        <strong style = "color: #555555">Lua</strong><br><br>
-        <img height = "64px" src = "https://cdn.svgporn.com/logos/lua.svg">
-      </td>
-    </tr>
-  </tbody>
+<table style="width:100%; table-layout:fixed;">
+    <tbody>
+        <tr valign="top">
+        <td align="center">
+            <strong style="color:#b07219">Java</strong><br><br>
+            <img height="64" src="https://cdn.svgporn.com/logos/java.svg">
+        </td>
+        <td align="center">
+            <strong style="color:#555555">C</strong><br><br>
+            <img height="64" src="https://cdn.svgporn.com/logos/c.svg">
+        </td>
+        <td align="center">
+            <strong style="color:#555555">C++</strong><br><br>
+            <img height="64" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+        </td>
+        <td align="center">
+            <strong style="color:#3572A5">Python</strong><br><br>
+            <img height="64" src="https://cdn.svgporn.com/logos/python.svg">
+        </td>
+        <td align="center">
+            <strong style="color:#f1e05a">JavaScript</strong><br><br>
+            <img height="64" src="https://cdn.svgporn.com/logos/javascript.svg">
+        </td>
+        <td align="center">
+            <strong style="color:#555555">Lua</strong><br><br>
+            <img height="64" src="https://cdn.svgporn.com/logos/lua.svg">
+        </td>
+        </tr>
+    </tbody>
 </table>
 
 <!--
