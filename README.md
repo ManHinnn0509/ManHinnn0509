@@ -7,35 +7,61 @@ Hey there, I love turning ideas into usable tools and Python is my go-to tool si
 ![](https://steamuserimages-a.akamaihd.net/ugc/1758060802046636532/FCE3A33B38DB56073BD4178DB2099FBD3A66695D/)
 -->
 
+## 🗂️ My projects
+
+Here are some of my projects but you can find all of them in the repo page!
+
+### YouTube downloader in Tkinter
+
+<a href="https://github.com/ManHinnn0509/tk-yt-downloader">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=manhinnn0509&repo=tk-yt-downloader&theme=dracula" />
+</a>
+
+**[tk-yt-downloader](https://github.com/ManHinnn0509/tk-yt-downloader)** - Easy to use GUI YouTube downloader in made with Tkinter <br>
+
+<br clear="right"/>
+
+<!---->
+
+### Face recognition clock in system
+
+<a href="https://github.com/ManHinnn0509/FaceRec_ClockIn">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=manhinnn0509&repo=FaceRec_ClockIn&theme=dracula" />
+</a>
+
+**[FaceRec_ClockIn](https://github.com/ManHinnn0509/FaceRec_ClockIn)** - My final year project, now open source <br>
+
+<br clear="right"/>
+
 ## 💻 Languages that I'm learning and using...
 
 <table style="width:100%; table-layout:fixed;">
     <tbody>
         <tr valign="top">
-        <td align="center">
-            <strong style="color:#b07219">Java</strong><br><br>
-            <img height="64" src="https://cdn.svgporn.com/logos/java.svg">
-        </td>
-        <td align="center">
-            <strong style="color:#555555">C</strong><br><br>
-            <img height="64" src="https://cdn.svgporn.com/logos/c.svg">
-        </td>
-        <td align="center">
-            <strong style="color:#555555">C++</strong><br><br>
-            <img height="64" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-        </td>
-        <td align="center">
-            <strong style="color:#3572A5">Python</strong><br><br>
-            <img height="64" src="https://cdn.svgporn.com/logos/python.svg">
-        </td>
-        <td align="center">
-            <strong style="color:#f1e05a">JavaScript</strong><br><br>
-            <img height="64" src="https://cdn.svgporn.com/logos/javascript.svg">
-        </td>
-        <td align="center">
-            <strong style="color:#555555">Lua</strong><br><br>
-            <img height="64" src="https://cdn.svgporn.com/logos/lua.svg">
-        </td>
+            <td align="center">
+                <strong style="color:#b07219">Java</strong><br><br>
+                <img height="64" src="https://cdn.svgporn.com/logos/java.svg">
+            </td>
+            <td align="center">
+                <strong style="color:#555555">C</strong><br><br>
+                <img height="64" src="https://cdn.svgporn.com/logos/c.svg">
+            </td>
+            <td align="center">
+                <strong style="color:#555555">C++</strong><br><br>
+                <img height="64" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+            </td>
+            <td align="center">
+                <strong style="color:#3572A5">Python</strong><br><br>
+                <img height="64" src="https://cdn.svgporn.com/logos/python.svg">
+            </td>
+            <td align="center">
+                <strong style="color:#f1e05a">JavaScript</strong><br><br>
+                <img height="64" src="https://cdn.svgporn.com/logos/javascript.svg">
+            </td>
+            <td align="center">
+                <strong style="color:#555555">Lua</strong><br><br>
+                <img height="64" src="https://cdn.svgporn.com/logos/lua.svg">
+            </td>
         </tr>
     </tbody>
 </table>
