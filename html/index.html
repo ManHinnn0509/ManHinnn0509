@@ -27,11 +27,28 @@
         </a>
         <br>
 
-        <zero-md class="md" src="https://raw.githubusercontent.com/ManHinnn0509/ManHinnn0509/refs/heads/main/README.md"></zero-md>
+        <zero-md class="md" src="https://raw.githubusercontent.com/ManHinnn0509/ManHinnn0509/refs/heads/main/README.md">
+            <!-- "Default style template" section in https://zerodevx.github.io/zero-md/ -->
+            <template>
+                <style>
+                    :host { display: block; position: relative; contain: content; }
+                    :host([hidden]) { display: none; }
+                </style>
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css" />
+                <link rel="stylesheet" media="(prefers-color-scheme:dark)" href="https://cdn.jsdelivr.net/npm/@highlightjs/cdn-assets@11/styles/github-dark.min.css" />
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0/dist/katex.min.css" />
+            </template>
+        </zero-md>
     </body>
 </html>
 
 <style>
+    :root {
+        /* Dark / Light theme */
+        --border-color: #0D1117;
+        /*--border-color: #C2C5CC;*/
+    }
+
     html {
         background: url("../img/bg.jpg") no-repeat;      /* https://i.imgur.com/OawSRbg.jpg */
         background-size: cover;
@@ -63,10 +80,11 @@
 
     zero-md.md {
         border-radius: 10px;
+        padding: 10px;
         width: 650;
         margin: auto;
-        border: 1px solid #C2C5CC;
-        background-color: #FFFFFF;
+        border: 1px solid var(--border-color);
+        background-color: var(--border-color);
     }
 
     img.rgb {
