@@ -14,7 +14,7 @@ Here are some of my projects but you can find all of them in the repo page!
 ### YouTube downloader in Tkinter
 
 <a href="https://github.com/ManHinnn0509/tk-yt-downloader">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=manhinnn0509&repo=tk-yt-downloader&theme=dracula" />
+    <img align="right" src="https://raw.githubusercontent.com/ManHinnn0509/ManHinnn0509/refs/heads/main/profile/tk-yt-downloader.svg" />
 </a>
 
 **[tk-yt-downloader](https://github.com/ManHinnn0509/tk-yt-downloader)** - Easy to use GUI YouTube downloader in made with Tkinter <br>
@@ -26,7 +26,7 @@ Here are some of my projects but you can find all of them in the repo page!
 ### Face recognition clock in system
 
 <a href="https://github.com/ManHinnn0509/FaceRec_ClockIn">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=manhinnn0509&repo=FaceRec_ClockIn&theme=dracula" />
+    <img align="right" src="https://raw.githubusercontent.com/ManHinnn0509/ManHinnn0509/refs/heads/main/profile/FaceRec_ClockIn.svg" />
 </a>
 
 **[FaceRec_ClockIn](https://github.com/ManHinnn0509/FaceRec_ClockIn)** - My final year project, now open source <br>
