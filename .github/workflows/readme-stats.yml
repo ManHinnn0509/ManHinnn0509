@@ -41,13 +41,22 @@ jobs:
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Custom
-      - name: Generate pin card
+      # Custom (tk-yt-downloader)
+      - name: Generate pin card (tk-yt-downloader)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=manhinnn0509&repo=tk-yt-downloader&theme=dracula
           path: profile/tk-yt-downloader.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Custom (FaceRec_ClockIn)
+      - name: Generate pin card (tk-yt-downloader)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=manhinnn0509&theme=dracula&repo=FaceRec_ClockIn
+          path: profile/FaceRec_ClockIn.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
