@@ -1,5 +1,6 @@
 # https://github.com/stats-organization/github-readme-stats-action
 # https://github.com/marketplace/actions/github-readme-stats-action
+
 name: Update README cards
 
 on:
@@ -18,7 +19,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
@@ -26,7 +27,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
@@ -34,28 +35,28 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=stats-organization&repo=github-readme-stats
+          path: profile/pin-stats-organization-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Custom (tk-yt-downloader)
+      # Custom: tk-yt-downloader
       - name: Generate pin card (tk-yt-downloader)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=manhinnn0509&repo=tk-yt-downloader&theme=dracula
           path: profile/tk-yt-downloader.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Custom (FaceRec_ClockIn)
-      - name: Generate pin card (tk-yt-downloader)
-        uses: readme-tools/github-readme-stats-action@v1
+      # Custom: FaceRec_ClockIn
+      - name: Generate pin card (FaceRec_ClockIn)
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=manhinnn0509&theme=dracula&repo=FaceRec_ClockIn
+          options: username=manhinnn0509&repo=FaceRec_ClockIn&theme=dracula
           path: profile/FaceRec_ClockIn.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
